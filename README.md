@@ -7,7 +7,7 @@
 
 <details>
   <summary>AWS IoT 서비스 소개, 라즈베리파이 피코 소개</b></summary>
-  https://www.meetup.com/ko-KR/awskrug/events/296351876
+  https://www.meetup.com/ko-KR/awskrug/events/296351876</b>
   - AWS IoT 서비스 소개 : 김성한
   - 라즈베리파이 피코 소개 : 김영익
 </details>
