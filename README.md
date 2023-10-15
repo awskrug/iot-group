@@ -10,7 +10,7 @@
   https://www.meetup.com/ko-KR/awskrug/events/296351876 <br />
   - AWS IoT 서비스 소개 : 김성한 
   <br />
-  - [라즈베리파이 피코 소개 : 김영익] (https://github.com/awskrug/iot-group/blob/3919484756bcea1630431f18c61cc30ba96bd9b0/files/2023-10-12_%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4_%ED%94%BC%EC%BD%94.pdf)
+  - [라즈베리파이 피코 소개 : 김영익](https://github.com/awskrug/iot-group/blob/3919484756bcea1630431f18c61cc30ba96bd9b0/files/2023-10-12_%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4_%ED%94%BC%EC%BD%94.pdf)
   <br />
 </details>
 
