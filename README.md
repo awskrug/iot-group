@@ -9,7 +9,7 @@
   <summary>10월 12일, 센터필드, AWS IoT 서비스 소개, 라즈베리파이 피코 소개</summary>
     - https://www.meetup.com/ko-KR/awskrug/events/296351876 <br/>
     - 김성한 : AWS IoT 서비스 소개   <br/>
-    - 김영익 : 라즈베리파이 피코 소개, https://github.com/awskrug/iot-group/tree/b8daf8b78b43a35867026222b7462f5fd2353d55/files/2023-10 <br/>
+    - 김영익 : 라즈베리파이 피코 소개, https://github.com/awskrug/iot-group/tree/main/files/2023-10 <br/>
 </details>
 
 
