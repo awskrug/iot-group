@@ -1,1 +1,12 @@
+오늘 실습한 Amazon Q CLI Workshop content
+https://catalog.us-east-1.prod.workshops.aws/workshops/aa2f7dda-789c-4602-aebb-adbd2071db85/ko-KR
 
+Amazon Q 소개
+https://aws.amazon.com/ko/q/
+
+Builder ID로 로그인
+https://profile.aws.amazon.com
+
+AWS MCP 서버를 등록하면 Q가 더 똑똑해집니다
+https://aws.amazon.com/ko/blogs/korea/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/
+https://github.com/awslabs/mcp
