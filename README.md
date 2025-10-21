@@ -5,6 +5,7 @@
 
 | # | Date       | Meetup | Sessions    | Files |
 |---|------------|--------|-------------|-------|
+|-9-|2025-10-20|[link](https://www.meetup.com/ko-KR/awskrug/events/311321362)|- "Kiro Learn by Playing (Korean)" 핸즈온 랩 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-10)|
 |-8-|2025-07-15|[link](https://www.meetup.com/ko-KR/awskrug/events/308604612)|- "Amazon Q CLI" 핸즈온 랩 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-07)|
 |-7-|2025-05-30|[link](https://www.meetup.com/ko-KR/awskrug/events/307123672)|- 김성한 : AWS IoT 서비스 소개<br/>- 김영익 : "AWS IoT Core workshop for beginners" 핸즈온 랩 소개 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-05)|
 |-6-|2025-01-13|[link](https://www.meetup.com/ko-KR/awskrug/events/305380704)|- 이병호 : AWS re:Invent 2024 참관 후기<br/>- 박종호 : IoT 및 모바일 어플리케이션 개발을 위한 카우치베이스 활용법 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-01)|
