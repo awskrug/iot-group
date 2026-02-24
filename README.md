@@ -5,7 +5,7 @@
 
 | # | Date       | Meetup | Sessions    | Files |
 |---|------------|--------|-------------|-------|
-|-10-|2026-02-24|[link](https://www.meetup.com/ko-KR/awskrug/events/311321362)|- 이진선 : "AWS 로봇 데모 메들리", 지현숙 : "Node-RED로 IoT 입문하기" |[link](https://github.com/awskrug/iot-group/tree/main/files/2026-02)|
+|-10-|2026-02-24|[link](https://www.meetup.com/ko-KR/awskrug/events/313264682)|- 이진선 : "AWS 로봇 데모 메들리", 지현숙 : "Node-RED로 IoT 입문하기" |[link](https://github.com/awskrug/iot-group/tree/main/files/2026-02)|
 |-9-|2025-10-20|[link](https://www.meetup.com/ko-KR/awskrug/events/311321362)|- "Kiro Learn by Playing (Korean)" 핸즈온 랩 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-10)|
 |-8-|2025-07-15|[link](https://www.meetup.com/ko-KR/awskrug/events/308604612)|- "Amazon Q CLI" 핸즈온 랩 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-07)|
 |-7-|2025-05-30|[link](https://www.meetup.com/ko-KR/awskrug/events/307123672)|- 김성한 : AWS IoT 서비스 소개<br/>- 김영익 : "AWS IoT Core workshop for beginners" 핸즈온 랩 소개 |[link](https://github.com/awskrug/iot-group/tree/main/files/2025-05)|
