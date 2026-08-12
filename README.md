@@ -5,7 +5,7 @@
 
 | # | Date       | Meetup | Sessions    | Files |
 |---|------------|--------|-------------|-------|
-|---|------------|--------|We are moving to new small group !|-------|
+|---|---|---|We moved to new small group ! <br/> [link](https://github.com/awskrug/junior-group/)  |---|
 |-12-|2026-07~09|link|- TBD |[link](https://github.com/awskrug/iot-group/tree/main/files/2026-09)|
 |-11-|2026-04-21|[link](https://www.meetup.com/ko-KR/awskrug/events/314038823)|- "Strands Agents 시작하기" 핸즈온 랩 |[link](https://github.com/awskrug/iot-group/tree/main/files/2026-04)|
 |-10-|2026-02-24|[link](https://www.meetup.com/ko-KR/awskrug/events/313264682)|- 이진선 : "AWS 로봇 데모 메들리"<br/>- 지현숙 : "Node-RED로 IoT 입문하기" |[link](https://github.com/awskrug/iot-group/tree/main/files/2026-02)|
